@@ -1,0 +1,4 @@
+modules\*
+!modules\api
+!modules\auth
+!modules\home
